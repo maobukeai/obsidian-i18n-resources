@@ -24,5 +24,18 @@
         "created_at": "2026-05-30T12:25:59.462Z",
         "updated_at": "2026-05-30T12:25:59.462Z",
         "type": "plugin"
+    },
+    {
+        "id": "HZvAQCcPM4QNqBVKNP99crgH0SzEUJ2c",
+        "plugin": "obsidian-meta-bind-plugin",
+        "language": "zh-cn",
+        "version": "1.4.11",
+        "supported_versions": "1.4.11",
+        "title": "Meta Bind",
+        "description": "Meta Bind Localization & Tweaks",
+        "hash": "27d6322a27d6322a27d6322a27d6322a",
+        "created_at": "2026-05-30T13:51:16.178Z",
+        "updated_at": "2026-05-30T13:51:16.178Z",
+        "type": "plugin"
     }
 ]
